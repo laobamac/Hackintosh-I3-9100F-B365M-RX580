@@ -30,23 +30,15 @@
 </tr>
 <tr>
 <td>显示器</td>
-<td>京东方 NV156FHM-N61 FHD 1920x1080 (15.6 英寸)</td>
+<td>Aigon FHD 1920x1080</td>
 </tr>
 <tr>
 <td>声卡</td>
-<td>瑞昱 ALC298 (节点: 30/99)</td>
+<td>瑞昱 ALC662 (layout-id：16)</td>
 </tr>
 <tr>
 <td>无线网卡</td>
-<td>英特尔 Wireless-AC 8265</td>
-</tr>
-<tr>
-<td>触控板</td>
-<td>ETD2303</td>
-</tr>
-<tr>
-<td>SD 读卡器</td>
-<td>瑞昱 RTS5129 / RTS5250S</td>
+<td>BCM943224PCIEBT2（EFI内不带驱动！）</td>
 </tr>
 </tbody>
 </table>
