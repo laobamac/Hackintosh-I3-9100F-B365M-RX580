@@ -57,7 +57,7 @@
 </li>
 <li><strong>独立显卡</strong> 完全支持  报错请刷VBIOS
 <ul dir="auto">
-<li>可以使用 <code>ADPMInjector</code> 来获得更好的电源管理支持</li>
+<li>可以使用 <code>AGPMInjector</code> 来获得更好的电源管理支持</li>
 </ul>
 </li>
 <ul dir="auto">
@@ -67,5 +67,5 @@
 <ul dir="auto"> 
 </ul>
 </li>
-<li>支持原生CPU电源管理等其他功能</li>
+<li>支持原生<strong>CPU电源管理</strong>等其他功能,已经使用<code>MacPro7,1</code>来获得<code>H264</code>以及<code>HEVC</code>硬解支持</li>
 </ul>
