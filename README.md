@@ -21,8 +21,8 @@
 <td>华南金牌 NVMe固态 128G <del>日立500G机械</del></td>
 </tr>
 <tr>
-<td>集成显卡</td>
-<td>无</td>
+<td>有线网卡</td>
+<td>Realtek RTL8111</td>
 </tr>
 <tr>
 <td>独立显卡</td>
@@ -69,3 +69,9 @@
 </li>
 <li>支持原生<strong>CPU电源管理</strong>等其他功能,已经使用<code>MacPro7,1</code>来获得<code>H264</code>以及<code>HEVC</code>硬解支持</li>
 </ul>
+<ul dir="auto"> 
+</ul>
+</li>
+<li>USB3.0可能无法跑满<code>480Mbps/s</code>的速度，实测只有<code>42M/s</code>左右
+<ul dir="auto">
+  <li>定制USB端口似乎并无法解决这个问题</li>
