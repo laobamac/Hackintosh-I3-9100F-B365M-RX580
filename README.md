@@ -1,4 +1,4 @@
-# I3-9100F-B365M-RX580
+# OpenCore Hackintosh for I3-9100F-B365M-RX580
 # 电脑配置
 <table>
 <thead>
