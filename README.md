@@ -72,6 +72,6 @@
 <ul dir="auto"> 
 </ul>
 </li>
-<li>USB3.0可能无法跑满<code>480Mbps/s</code>的速度，实测只有<code>42M/s</code>左右
+<li><strong>USB3.0可能无法跑满</strong><code>480Mbps/s</code>的速度，实测只有<code>42M/s</code>左右
 <ul dir="auto">
   <li>定制USB端口似乎并无法解决这个问题</li>
