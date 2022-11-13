@@ -85,7 +85,7 @@
 <li>CSM</li>
 <li>Intel SGX</li>
 <li>CFG Lock</li>
-
+</br>
 <li>Enable</li>
 <li>VT-x (no option in BIOS, it's enabled by default)</li>
 <li>Above 4G decoding</li>
