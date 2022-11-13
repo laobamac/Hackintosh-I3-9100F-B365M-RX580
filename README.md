@@ -45,10 +45,7 @@
 
 # 目前情况
 <ul dir="auto">
-<li><strong>休眠</strong> 可能会在 CML 机型上引发严重引导问题，见 <a href="https://github.com/daliansky/XiaoMi-Pro-Hackintosh/issues/661" data-hovercard-type="issue" data-hovercard-url="/daliansky/XiaoMi-Pro-Hackintosh/issues/661/hovercard">#661</a> 和 <a href="https://github.com/daliansky/XiaoMi-Pro-Hackintosh/issues/694" data-hovercard-type="issue" data-hovercard-url="/daliansky/XiaoMi-Pro-Hackintosh/issues/694/hovercard">#694</a>
-<ul dir="auto">
-<li><code>HibernationFixup</code> kext 已经在 CML EFI 包中被禁用来避免笔记本进入休眠</li>
-<li>用户需要运行 <code>sudo pmset -a hibernatemode 0</code> 来禁用休眠模式，同时请看 <a href="/daliansky/XiaoMi-Pro-Hackintosh/blob/main/Docs/Docs/README_CML.txt">README_CML</a></li>
+<li><strong>休眠</strong>完全支持 同时实现<strong>电源小憩</strong></li>
 </ul>
 </li>
 <li><strong>HDMI</strong> 开机后第一次接上时可能无法工作
