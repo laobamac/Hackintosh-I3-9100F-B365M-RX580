@@ -10,7 +10,7 @@
 <tbody>
 <tr>
 <td>处理器</td>
-<td>Intel(R) Core I3-9100F 4C4T</td>
+<td>Intel(R) Core I3-9100F 4C4T Processor</td>
 </tr>
 <tr>
 <td>内存</td>
