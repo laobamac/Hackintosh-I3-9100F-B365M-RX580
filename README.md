@@ -80,15 +80,15 @@
 
 # BIOS设置
 Disabe
-Fast Boot
-VT-d
-CSM
-Intel SGX
-CFG Lock
+<li>Fast Boot</li>
+<li>VT-D</li>
+<li>CSM</li>
+<li>Intel SGX</li>
+<li>CFG Lock</li>
 
 Enable
-VT-x (no option in BIOS, it's enabled by default)
-Above 4G decoding
-Hyper-Threading
-EHCI/XHCI Hand-off
-OS type: Windows UEFI Mode (Clear Secure Boot Keys or choose Other type)
+<li>VT-x (no option in BIOS, it's enabled by default)</li>
+<li>Above 4G decoding</li>
+<li>Hyper-Threading</li>
+<li>EHCI/XHCI Hand-off</li>
+<li>OS type: Windows UEFI Mode (Clear Secure Boot Keys or choose Other type)</li>
