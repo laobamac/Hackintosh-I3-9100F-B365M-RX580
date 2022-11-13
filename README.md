@@ -14,11 +14,11 @@
 </tr>
 <tr>
 <td>内存</td>
-<td>8GB/16GB 三星 DDR4 2400MHz</td>
+<td>24GB DDR4 2400/2133MHz</td>
 </tr>
 <tr>
 <td>硬盘</td>
-<td>三星 NVMe固态硬盘 PM961 / <del>PM981</del></td>
+<td>华南金牌 NVMe固态 128G <del>日立500G机械</del></td>
 </tr>
 <tr>
 <td>集成显卡</td>
