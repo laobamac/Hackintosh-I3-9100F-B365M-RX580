@@ -79,14 +79,14 @@
 </li>
 
 # BIOS设置
-Disabe
+<li>Disabe</li>
 <li>Fast Boot</li>
 <li>VT-D</li>
 <li>CSM</li>
 <li>Intel SGX</li>
 <li>CFG Lock</li>
 
-Enable
+<li>Enable</li>
 <li>VT-x (no option in BIOS, it's enabled by default)</li>
 <li>Above 4G decoding</li>
 <li>Hyper-Threading</li>
