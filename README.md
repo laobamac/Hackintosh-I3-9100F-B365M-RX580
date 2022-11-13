@@ -45,31 +45,27 @@
 
 # 目前情况
 <ul dir="auto">
-<li><strong>休眠</strong>完全支持 同时实现<strong>电源小憩</strong></li>
+<li><strong>休眠</strong> 完全支持 同时实现<strong>电源小憩</strong></li>
 </ul>
 </li>
-<li><strong>HDMI</strong> 开机后第一次接上时可能无法工作
+<li><strong>HDMI</strong> 完全支持
 <ul dir="auto">
-<li>你需要重新插拔或者关上盖子等五秒后打开盖子</li>
+<li>最低分辨率1366*768，不支持1680*1050，否则可能会损坏你的显示器。3*DP与HDMI工作正常，DVI无法输出</li>
 </ul>
 </li>
-<li><strong>有线网 在 macOS10.15+ 上可能无法工作，见 <a href="https://github.com/daliansky/XiaoMi-Pro-Hackintosh/issues/256" data-hovercard-type="issue" data-hovercard-url="/daliansky/XiaoMi-Pro-Hackintosh/issues/256/hovercard">#256</a></strong></li>
-<li>如果升级到 macOS10.15+，需要更新 <a href="https://github.com/chris1111/Wireless-USB-Adapter/releases">USB无线网卡驱动</a>
+<li><strong>独立显卡</strong> 完全支持  报错请刷VBIOS
 <ul dir="auto">
-<li>如果不是 macOS10.15+，也推荐更新上述驱动</li>
+<li>可以使用 <code>ADPMInjector</code> 来获得更好的电源管理支持</li>
 </ul>
 </li>
-<li><strong>独立显卡</strong> 无法工作，因为 macOS 不支持 Optimus技术
 <ul dir="auto">
-<li>使用了 <code>SSDT-DDGPU</code> 来禁用它以节省电量</li>
-</ul>
-</li>
-<li><strong>指纹传感器</strong> 无法工作
+<li><strong>博通蓝牙</strong> 完全支持 请自行添加<code>BlueToolFixup.kext</code>
+<ul dir="auto"> 
 <ul dir="auto">
-<li>使用了 <code>SSDT-USB</code> 来禁用它以节省电量</li>
-</ul>
-</li>
-<li><strong>英特尔蓝牙</strong> 不支持部分蓝牙设备
+<ul dir="auto">
+<ul dir="auto">
+<ul dir="auto">
+<ul dir="auto">
 <ul dir="auto">
 <li>在 macOS12 上，英特尔蓝牙支持更多蓝牙4.x设备</li>
 <li>阅读 <a href="https://github.com/daliansky/XiaoMi-Pro-Hackintosh/wiki/%E8%93%9D%E7%89%99%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88">蓝牙解决方案</a></li>
