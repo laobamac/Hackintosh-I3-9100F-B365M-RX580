@@ -65,12 +65,6 @@
 </li>
 <li><strong>博通蓝牙</strong> 完全支持 请自行添加<code>BlueToolFixup.kext</code>
 <ul dir="auto"> 
-<ul dir="auto">
-<ul dir="auto">
-<ul dir="auto">
-<ul dir="auto">
-<ul dir="auto">
-<ul dir="auto">
 </ul>
 </li>
 <li>支持原生CPU电源管理等其他功能</li>
