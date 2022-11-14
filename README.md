@@ -117,3 +117,12 @@
 <p dir="auto">也有看到说在 <code>设置</code>-<code>启动磁盘</code> 可选择默认启动项,修改后重启</p>
 </li>
 </ul>
+
+# 鸣谢
+<ul dir="auto">
+  <li>感谢<a href='https://space.bilibili.com/244390800'>@乌龙蜜桃来一打</a>提供的显示器断电思路</li>
+<li>最好的入门教程：<a href="https://dortania.github.io/OpenCore-Install-Guide/" rel="nofollow">OpenCore Install Guide</a></li>
+<li>中文教程：<a href="https://blog.xjn819.com/post/opencore-guide.html" rel="nofollow">Xjn的博客</a></li>
+<li>中文文档 &amp; kexts集合下载：<a href="https://oc.skk.moe/" rel="nofollow">OpenCore中文文档</a></li>
+<li>镜像下载 &amp; 中文教程：<a href="http://blog.daliansky.net" rel="nofollow">黑果小兵</a></li>
+</ul>
