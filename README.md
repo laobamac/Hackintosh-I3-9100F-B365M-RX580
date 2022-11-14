@@ -87,7 +87,7 @@
 <li>CFG Lock</li>
 </br>
 <li>Enable</li>
-<li>VT-x (no option in BIOS, it's enabled by default)</li>
+<li>VT-x</li>
 <li>Above 4G decoding</li>
 <li>Hyper-Threading</li>
 <li>EHCI/XHCI Hand-off</li>
