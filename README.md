@@ -92,3 +92,13 @@
 <li>Hyper-Threading</li>
 <li>EHCI/XHCI Hand-off</li>
 <li>OS type: Windows UEFI Mode (Clear Secure Boot Keys or choose Other type)</li>
+
+# 使用方法
+<ul dir="auto">
+<li>准备安装U盘：参考OC官方配置，十分好用：<a href="https://dortania.github.io/OpenCore-Install-Guide/installer-guide/mac-install.html#setting-up-opencore-s-efi-environment" rel="nofollow">USB Creation</a>，包含macOS、Windows、Linux的U盘制作。</li>
+<li>(重要)使用OCAT打开我提供的EFI的config.plist 重新生成SystemSerialNumber/SystemUUID/MLB</li>
+<li>将当前提供的EFI放入U盘EFI磁盘目录下，表示使用当前EFI进行引导</li>
+<li>开机配置主板各项配置，以及设置U盘UEFI启动顺序第一</li>
+<li>插入U盘，选择U盘UEFI启动，进行安装系统</li>
+<li>安装完成进入系统，成功!</li>
+</ul>
