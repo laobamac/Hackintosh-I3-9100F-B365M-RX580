@@ -102,3 +102,8 @@
 <li>插入U盘，选择U盘UEFI启动，进行安装系统</li>
 <li>安装完成进入系统，成功!</li>
 </ul>
+
+# 双系统时间错误
+<li>这是一个很常见的macOS + Windows的冲突，因为计时方式不同。</li></br>
+<li>解决方式也很简单，在Windows下管理员cmd执行</li></br>
+<code>Reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v RealTimeIsUniversal /t REG_DWORD /d 1</code>
