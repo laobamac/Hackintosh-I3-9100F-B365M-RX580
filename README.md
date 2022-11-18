@@ -56,6 +56,9 @@
 <li><strong>隔空投送-接力</strong> 在<code>macOS Big Sur</code>完全支持，在<code>macOS Monterey</code><code>macOS Ventura</code>只能单向，更换CS2、CD网卡解决</li>
 </ul>
 </li>
+<li><strong>随航</strong>不支持！由于没有核显，所以无法使用。</li>
+</ul>
+</li>
 <li><strong>HDMI</strong> 完全支持
 <ul dir="auto">
 <li>最低分辨率1366*768，不支持1680*1050，否则可能会损坏你的显示器。3*DP与HDMI工作正常，DVI无法输出</li>
@@ -80,7 +83,8 @@
 </li>
 <li><strong>USB3.0可能无法跑满</strong><code>150M/s</code>的速度，实测只有<code>42M/s</code>左右
 <ul dir="auto">
-  <li>定制USB端口似乎并无法解决这个问题</li>
+  <li>定制USB端口似乎并无法解决这个问题</li></br>
+  <li>测试11.x-13.x 均未能达到Windows中的<code>130M/s</code>(PS:3.0固态U盘)</li>
 </ul>
 </li>
 
