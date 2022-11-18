@@ -83,7 +83,7 @@
 </li>
 <li><strong>USB3.0可能无法跑满</strong><code>150M/s</code>的速度，实测只有<code>42M/s</code>左右
 <ul dir="auto">
-  <li>定制USB端口似乎并无法解决这个问题</li></br>
+  <li>定制USB端口似乎并无法解决这个问题</li>
   <li>测试11.x-13.x 均未能达到Windows中的<code>130M/s</code>(PS:3.0固态U盘)</li>
 </ul>
 </li>
