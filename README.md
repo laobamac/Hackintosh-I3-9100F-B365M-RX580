@@ -10,7 +10,7 @@
 <tbody>
 <tr>
 <td>处理器</td>
-<td>Intel(R) Core I3-9100F 4C4T Processor</td>
+<td>Intel(R) Core I3-9100F@3.6Ghz 4C4T Processor</td>
 </tr>
 <tr>
 <td>内存</td>
@@ -34,7 +34,7 @@
 </tr>
 <tr>
 <td>声卡</td>
-<td>瑞昱 ALC662 6声道高保真音频</td>
+<td>瑞昱 ALC662 六声道 高保真音频</td>
 </tr>
 <tr>
 <td>无线网卡</td>
@@ -47,7 +47,10 @@
 <ul dir="auto">
 </ul>
 </li>
-<li><strong>休眠</strong> 完全支持 同时实现<strong>电源小憩</strong></li>
+<li><strong>睡眠</strong> 完全支持 同时实现<strong>电源小憩</strong></li>
+</ul>
+</li>
+<li><strong>USB的S3唤醒</strong> 完全支持</li>
 </ul>
 </li>
 <li><strong>HDMI</strong> 完全支持
