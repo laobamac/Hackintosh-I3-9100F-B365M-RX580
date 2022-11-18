@@ -22,7 +22,7 @@
 </tr>
 <tr>
 <td>有线网卡</td>
-<td>Realtek RTL8111</td>
+<td>Realtek RTL 8111 千兆网卡</td>
 </tr>
 <tr>
 <td>独立显卡</td>
@@ -34,11 +34,11 @@
 </tr>
 <tr>
 <td>声卡</td>
-<td>瑞昱 ALC662 (layout-id：16)</td>
+<td>瑞昱 ALC662 6声道高保真音频</td>
 </tr>
 <tr>
 <td>无线网卡</td>
-<td>BCM943224PCIEBT2（EFI内不带驱动！）</td>
+<td>博通 BCM943224PCIEBT2</td>
 </tr>
 </tbody>
 </table>
@@ -63,7 +63,7 @@
 <ul dir="auto">
 </ul>
 </li>
-<li><strong>博通蓝牙</strong> 完全支持 请自行添加<code>BlueToolFixup.kext</code>
+<li><strong>博通蓝牙</strong> 完全支持 如果是94360CS2、CD等免驱卡请自行删除<code>BlueToolFixup.kext</code><code>BrcmPatchRAM3.kext</code><code>BrcmFirmwareData.kext</code>
 <ul dir="auto"> 
 </ul>
 </li>
