@@ -57,7 +57,7 @@
 </li>
 <li><strong>独立显卡</strong> 完全支持  报错请刷VBIOS
 <ul dir="auto">
-<li>可以使用 <code><strong>AGPMInjector</strong>.kext</code> 来获得更好的电源管理支持</li>
+<li>可以使用 <code><strong>AGPMInjector.kext</strong></code> 来获得更好的电源管理支持</li>
 </ul>
 </li>
 <ul dir="auto">
