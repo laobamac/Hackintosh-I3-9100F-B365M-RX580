@@ -130,9 +130,12 @@
 
 # 鸣谢
 <ul dir="auto">
-  <li>感谢<a href='https://space.bilibili.com/244390800'>@乌龙蜜桃来一打</a>提供的显示器断电思路</li>
+<li>感谢<a href='https://space.bilibili.com/244390800'>@乌龙蜜桃来一打</a>提供的显示器断电思路</li>
 <li>最好的入门教程：<a href="https://dortania.github.io/OpenCore-Install-Guide/" rel="nofollow">OpenCore Install Guide</a></li>
 <li>中文教程：<a href="https://blog.xjn819.com/post/opencore-guide.html" rel="nofollow">Xjn的博客</a></li>
 <li>中文文档 &amp; kexts集合下载：<a href="https://oc.skk.moe/" rel="nofollow">OpenCore中文文档</a></li>
 <li>镜像下载 &amp; 中文教程：<a href="http://blog.daliansky.net" rel="nofollow">黑果小兵</a></li>
 </ul>
+
+# 友情链接
+<li><a href='https://apple.laobamac.fun/'>老八黑果的部落阁-Blog宁静致远</a></li>
