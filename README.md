@@ -139,3 +139,4 @@
 
 # 友情链接
 <li><a href='https://apple.laobamac.fun/'>老八黑果的部落阁-Blog宁静致远</a></li>
+<li>哔哩哔哩<a href='https://space.bilibili.com/504306154/'>老八带你玩黑果的主页</a></li>
