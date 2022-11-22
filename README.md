@@ -51,7 +51,7 @@
 <li><strong>睡眠</strong> 完全支持 同时实现<strong>电源小憩</strong></li>
 </ul>
 </li>
-<li><strong>USB的S3唤醒</strong> 完全支持</li>
+<li><strong>USB的S3唤醒</strong> 完全支持（仅测试COLORFUL iCafe B365M-PRO V20）</li>
 </ul>
 </li>
 <li><strong>隔空投送-接力</strong> 在<code>macOS Big Sur</code>完全支持，在<code>macOS Monterey</code><code>macOS Ventura</code>只能单向，更换CS2、CD网卡解决</li>
