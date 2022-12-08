@@ -1,5 +1,6 @@
 # OpenCore Hackintosh for I3-9100F-B365M-RX580
 <a href='README.md'>中文</a>|<a href='README-en.md'>English</a></br>
+<code>由laobamac与Shilu维护</code>
 # 电脑配置
 <table>
 <thead>
